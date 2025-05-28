@@ -15,12 +15,9 @@ Clone the repo by running
 
 ```git clone https://github.com/0xUmang/dictionaryapi.git```
 
+Make sure you have golang installed, if not you can use brew to install it 
 
-Make sure GOPATH is set in the env variables, If not please run
-
-```export PATH="$(go env GOPATH)/bin:$PATH"```
-
-
+```brew install golang```
 
 Then build the CLI by running 
 
