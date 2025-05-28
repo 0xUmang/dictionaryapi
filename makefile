@@ -1,3 +1,4 @@
+GOPATH ?= $(shell go env GOPATH)
 GOBIN ?=$(GOPATH)/bin
 
 build-maclinux:
