@@ -3,7 +3,8 @@ A go CLI to query the https://dictionaryapi.com/products/api-collegiate-dictiona
 
 
 Make sure you have the API_KEY exported in the env variables or else the CLI would not work 
-Heres a free API key to play with the tool b48e3347-81bd-4b38-9da5-2d72399817fd
+Heres a free API key to play with the tool b48e3347-81bd-4b38-9da5-2d72399817fd.
+
 As of now the make file takes care of it so it would work outside the box
 Feel Free to update the API_KEY by creating a .env file locally and supplying your own API_KEY or just export it
 
