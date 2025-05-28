@@ -18,7 +18,7 @@ Clone the repo by running
 
 Make sure GOPATH is set in the env variables, If not please run
 
-```export PATH="$(go env GOPATH/bin):$PATH"```
+```export PATH="$(go env GOPATH)/bin:$PATH"```
 
 
 
